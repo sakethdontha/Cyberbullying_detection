@@ -51,8 +51,7 @@ This project aims to detect cyberbullying in text data using machine learning mo
 
 3. **Model Building**:
    - Train/Test split.
-   - TF-IDF vectorization.
-   - Logistic Regression and other models.
+   - Random Forest Classifier, XGBoost Classifier, Gradient Boosting Classifier, Artificial Neural Network (ANN)
 
 4. **Evaluation**:
    - Confusion Matrix.
